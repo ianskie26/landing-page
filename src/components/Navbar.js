@@ -7,11 +7,11 @@ export default function Navbar() {
                 <h1 className="logo">LOGO</h1>
             </div>
             <div className="links">
-            <a href="#">Home</a>
-            <a href="#">Articles</a>
-            <a href="#">Pricing</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <a href="/">Home</a>
+            <a href="/">Articles</a>
+            <a href="/">Pricing</a>
+            <a href="/">About</a>
+            <a href="/">Contact</a>
             </div>
             <div className="right-navbar">
                 <button className="login">Log In</button>
